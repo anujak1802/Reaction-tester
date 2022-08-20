@@ -1,2 +1,2 @@
 # Reaction-tester
-Game to test accuracy
+Game to test speed accuracy
